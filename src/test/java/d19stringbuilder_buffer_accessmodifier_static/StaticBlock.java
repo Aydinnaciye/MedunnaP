@@ -9,7 +9,7 @@ public class StaticBlock {
         Bu, uygulamanin herhangi bir bölümünda veritabanina erisim gerektiginde baglantinin hizli bir sekilde
         hazir olmasini saglar.
          */
-
+        //Bir variable olusturup deger atamazsaniz o variableyi initialize etmediniz demektir.
         static double pi;
 
         static { //static block
